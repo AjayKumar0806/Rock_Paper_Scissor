@@ -11,7 +11,6 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Screenshots](#screenshots)
 
 ## Features
