@@ -47,10 +47,6 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 
 We welcome contributions to improve this project. Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Screenshots
 
 ![Rock Paper Scissors Game](screenshots/rock_paper_scissors.png)
