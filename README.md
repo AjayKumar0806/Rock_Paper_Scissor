@@ -49,5 +49,7 @@ We welcome contributions to improve this project. Please fork the repository and
 
 ## Screenshots
 
-![Rock Paper Scissors Game](screenshots/rock_paper_scissors.png)
+![Rock Paper Scissors Game](output1.png)
+![Rock Paper Scissors Game](output2.png)
+![Rock Paper Scissors Game](output3.png)
 
